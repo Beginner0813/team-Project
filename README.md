@@ -1,5 +1,6 @@
 # 📃계산기 만들기 프로젝트
 window에 있는 계산기를 C#을 통해 구현해보는 프로젝트
+![windows 계산기 이미지](https://github.com/Beginner0813/team-Project/blob/main/%EA%B3%84%EC%82%B0%EA%B8%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80.JPG)
 ## ⏰프로젝트 기간
 2025.05.02 - 2025.05.07
 ## 🙍🏻‍♂️개발자 소개
